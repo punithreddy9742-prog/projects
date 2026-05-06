@@ -1,0 +1,9 @@
+uvicorn path.to.backend.app:app --reload --workers 1
+
+uvicorn backend.app:app --reload --workers 1
+
+
+http://45.79.45.12/secure-paypal-login
+http://192.168.0.1/login
+http://203.0.113.5/banking/update
+
